@@ -13,7 +13,7 @@ If you'd like to contribute to this project, please fork this repository over an
 *  [API Data: ](#api-data)
 *  [GraphQL Query Examples](#graphql-query-examples)
 
-## Operation Refactor America
+## About Operation Refactor America
 Operation Refactor America is a not associated with any government agency, but our goal is to empower citizens with transparent data. Only a fraction of government agencies provide public APIs, which are usually poorly documented, built on archaic REST architecture, and contains scattered data. Our mission is to retrieve that valuable data and convert them into an intuitive and modern API using GraphQL Server.
 
 ## About the Data
